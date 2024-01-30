@@ -7,7 +7,7 @@ body {
 
 header,
 footer,
-.section-even {
+section.even {
     color: var(--white);
 }
 
