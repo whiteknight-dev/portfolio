@@ -7,7 +7,7 @@ section {
     padding-bottom: 3rem;
 }
 
-#navbar, .section.even {
+#navbar, section.even {
     background: linear-gradient(var(--primary), var(--primary-dark));
 }
 
