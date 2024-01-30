@@ -17,7 +17,7 @@
 
 #navbar div a:hover {
     color: var(--white);
-    transition: color .3s ease, color .3s ease;
+    transition: color .3s ease;
 }
 
 #navbar div img {
